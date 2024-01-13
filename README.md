@@ -15,6 +15,12 @@ Je me suis prêter à tester mes connaissances en mécanique quantique. Voici un
 ![Exercice 1 GIF](EQ001/PorteDuTresor.gif)
 Description de l'exercice 1...
 
+### Exercice 2 : Cheveux
+Description de l'exercice 2...
+
+### Exercice 3 : Malédiction
+Description de l'exercice 3...
+
 
 N'hésitez pas à parcourir les exercices dans l'ordre qui vous convient et à revenir sur les supports de cours et les vidéos au besoin pour vous aider à résoudre les exercices à votre tour.
 
